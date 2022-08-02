@@ -1,0 +1,30 @@
+timestamp^^202207270900
+city^^Dartmouth
+cloud_cover^^0
+country^^CA
+country_iso3166^^CA
+dewpoint_c^^13.9
+dewpoint_f^^57
+latitude^^44.65
+longitude^^-63.62
+observation_time^^2022-07-27 11:30
+pressure_mb^^1007.9
+pressure_in^^34
+rain_1h_mm^^0
+rain_1h_in^^0
+relative_humidity^^64
+snow_1h_mm^^0
+snow_1h_in^^0
+state_name^^07
+temp_c^^21
+temp_f^^70
+timezone^^America/Halifax
+observation_epoch^^1658921400
+visibility_km^^16
+visibility_mi^^9.94
+weather^^Clear sky
+wind_degrees^^270
+wind_dir^^W
+wind_ms^^0.5
+wind_mph^^1.1
+api_source^^WeatherBit.io

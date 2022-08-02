@@ -1,0 +1,2 @@
+export VAR1="Hello World"
+alias bye="echo Goodbye ; sleep 5 ; exit"

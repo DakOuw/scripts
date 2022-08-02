@@ -1,0 +1,14 @@
+timestamp^^202207270900
+Ip^^142.177.147.198
+Status^^OK
+CountryCode^^CA
+CountryCode3^^CAN
+CountryName^^Canada
+RegionCode^^NS
+RegionName^^Nova Scotia
+City^^Halifax
+ZipPostalCode^^B3L
+Latitude^^44.6529
+Longitude^^-63.6195
+AreaCode^^0
+TimeZone^^America/Halifax
